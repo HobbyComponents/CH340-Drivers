@@ -1,22 +1,22 @@
 # CH340-Drivers
 CH340 Drivers for Hobby Components Products
 
-####Microsoft Windows:
-Windows drivers support 32 and 64 bit versions of the opperating system. These drivers will need to be installed whn using any of the Hobby Components products listed below.
+#### Microsoft Windows:
+Windows drivers support 32 and 64 bit versions of the operating system. These drivers will need to be installed whn using any of the Hobby Components products listed below.
 
-####Linux drivers:
+#### Linux drivers:
 Most popular versions will include a sutable driver and so no additional installation is normally required.
 
 
 
-**PLEASE NOTE: We have made this driver available on GitHub for easy access by our customers. If you are a Hobby Components customer and are experiencing issues installing this driver please contact us either via our support forum (https://forum.hobbycomponents.com) or directly via our contact page (https://hobbycomponents.com/contact-us). **
+**PLEASE NOTE: We have made this driver available on GitHub for easy access by our customers. If you are a Hobby Components customer and are experiencing issues installing this driver please contact us either via our support forum (https://forum.hobbycomponents.com) or directly via our contact page (https://hobbycomponents.com/contact-us).**
 
 **WE CANNOT provide technical support to non-customers. If you did not purchase your item from Hobby Components and are experiencing issues then we advise contacting the vendor  that you bought the item from.**
 
 
 
 
-###Supported products:
+### Supported products:
 
 
 **Hobby Components Arduino Compatible Uno+ (HCARDU0100)**
